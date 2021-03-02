@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sbman.net
+Token: 27da8b4e8697bb92df577de32f35b6b3c74dc0a0c93be90c5decd706ed288aba
